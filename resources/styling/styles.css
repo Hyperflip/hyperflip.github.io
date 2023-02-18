@@ -8,6 +8,18 @@
     object-fit: cover;
 }
 
+.carousel .carousel-control-prev-icon {
+    filter: none !important;
+}
+
+.carousel .carousel-control-next-icon {
+    filter: none !important;
+}
+
+.carousel-inner p {
+    color: white !important;
+}
+
 .btn-img-view {
     cursor: pointer;
 }
