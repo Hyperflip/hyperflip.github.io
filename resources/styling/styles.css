@@ -8,3 +8,6 @@
     object-fit: cover;
 }
 
+.btn-img-view {
+    cursor: pointer;
+}
