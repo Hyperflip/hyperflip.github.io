@@ -1,0 +1,10 @@
+.highlighted {
+    background-color: RGBA(0, 0, 0, 0.3);
+}
+
+.carousel img {
+    width: 100% !important;
+    aspect-ratio: 16/9 !important;
+    object-fit: cover;
+}
+
